@@ -22,7 +22,7 @@ class Main {
              lowerRight.MultiplyByTwo();
         System.out.println("\nlowerRight.x is " + lowerRight.x + " and lowerRight.y is " + lowerRight.y);
 
-        double d;
+        double d, o;
         d = lowerRight.distance(lowerLeft);
         System.out.println("\ndistance between lowerRight & lowerLeft: " + d);
 
