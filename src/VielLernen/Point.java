@@ -24,6 +24,7 @@ class Point {
     static Point origin;
     static {
         origin = new Point();
+
     }
     double Vektorprodukt(){
         double xdiff = x;
