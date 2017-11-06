@@ -38,4 +38,3 @@ class Main {
         System.out.println("\norigin is a static field: " + Point.origin.x +" / " + Point.origin.y);
     }
 }
-
