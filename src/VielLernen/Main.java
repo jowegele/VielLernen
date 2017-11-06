@@ -35,6 +35,6 @@ class Main {
         lowerRight.clean();
         System.out.println("\nlowerRight x value after applying the methode clean(): " + lowerRight.x);
 
-        System.out.println("\norigin is a static field: " + Point.origin.x +" / " + Point.origin.y);
+        System.out.println("\norigin is a static field: " + Point.origin.x +" / " + Point.origin.y + " Oh year! ");
     }
 }
