@@ -8,7 +8,7 @@ class Main {
         Point lowerLeft = new Point();
         Point lowerRight = new Point();
 
-        lowerLeft.x = 243.34;
+        lowerLeft.x = 243.34; //Comment
         lowerLeft.y = 32;
 
         System.out.println("lowerLeft x value is " + lowerLeft.x);
