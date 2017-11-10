@@ -3,7 +3,7 @@
 Short overview on Java following the book
   "Die Programmiersprache Java", Ken Arnold, James Gosling, David Holmes @Addison-Wesley
   
-# Basic Compilation Commands #  
+# Basic Compilation Commands
 
 > package main;
 
@@ -31,3 +31,7 @@ Sergiu Dumitriu
 https://stackoverflow.com/a/14132686 
 
 linux - Exception in thread "main" java.lang.NoClassDefFoundError: H... https://stackoverflow.com/questions/14132602/exception-in-thread-mai...
+
+# Useful Links
+
+http://michael.hahsler.net/JAVA/ 
